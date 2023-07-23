@@ -5,3 +5,5 @@ This is my first code !
 This is the configuration respective to the VNs size.
 
 Do we have full repositories
+
+Changing the VMs OS to ubuntu.
